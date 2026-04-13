@@ -13,6 +13,6 @@ I'm TurboRx, a passionate developer who loves exploring new technologies and bui
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TurboRx&show_icons=true&theme=radical&cache_seconds=300)
+![My GitHub stats](https://personal-github-stats-sage.vercel.app/api?username=TurboRx&show_icons=true&theme=tokyonight&cache_seconds=300)
 
 Thanks for visiting my profile! Feel free to check out my repos.
