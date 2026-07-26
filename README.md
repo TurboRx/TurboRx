@@ -2,6 +2,10 @@
 
 I'm TurboRx, a passionate developer who loves exploring new technologies and building innovative projects.
 
+🌐 **Live Portfolio**: [turborx.github.io/My-Personal-Portfolio](https://turborx.github.io/My-Personal-Portfolio/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://turborx.github.io/My-Personal-Portfolio/)
+
 ## 🛠️ Tech Stacks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,4 +19,4 @@ I'm TurboRx, a passionate developer who loves exploring new technologies and bui
 ## 📊 GitHub Stats
 ![My GitHub stats](https://personal-github-stats-sage.vercel.app/api?username=TurboRx&show_icons=true&theme=tokyonight&cache_seconds=300)
 
-Thanks for visiting my profile! Feel free to check out my repos.
+Thanks for visiting my profile! Feel free to check out my repos or visit my [Personal Portfolio](https://turborx.github.io/My-Personal-Portfolio/).
