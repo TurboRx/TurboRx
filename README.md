@@ -2,7 +2,7 @@
 
 I'm TurboRx, a passionate developer who loves exploring new technologies and building innovative projects.
 
-🌐 **Live Portfolio**: [turborx.github.io/My-Personal-Portfolio](https://turborx.github.io/My-Personal-Portfolio/)
+## Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://turborx.github.io/My-Personal-Portfolio/)
 
