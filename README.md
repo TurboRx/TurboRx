@@ -19,4 +19,4 @@ I'm TurboRx, a passionate developer who loves exploring new technologies and bui
 ## 📊 GitHub Stats
 ![My GitHub stats](https://personal-github-stats-sage.vercel.app/api?username=TurboRx&show_icons=true&theme=tokyonight&cache_seconds=300)
 
-Thanks for visiting my profile! Feel free to check out my repos or visit my [Personal Portfolio](https://turborx.github.io/My-Personal-Portfolio/).
+Thanks for visiting my profile! Feel free to check out my repos.
