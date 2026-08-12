@@ -4,7 +4,9 @@ I'm TurboRx, a passionate developer who loves exploring new technologies and bui
 
 ## Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://turborx.github.io/My-Personal-Portfolio/)
+<a href="https://turborx.pages.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
 ## 🛠️ Tech Stacks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
