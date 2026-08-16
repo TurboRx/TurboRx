@@ -2,9 +2,9 @@
 
 # Hi, I'm TurboRx 👋
 
-### Systems Programmer — building close to the metal in C & Rust.
+### Self-taught Systems Programmer — building close to the metal in C & Rust.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0070F3&center=true&vCenter=true&width=500&lines=Systems+Programmer+%7C+C+%2F+Rust;Focused+on+performance+%26+low-level+design;Exploring+embedded+systems+%26+security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0070F3&center=true&vCenter=true&width=500&lines=Self-taught+Systems+Programmer;Focused+on+performance+%26+low-level+design;Exploring+embedded+systems+%26+security" alt="Typing SVG" />
 
 <a href="https://turborx.pages.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -14,13 +14,13 @@
 
 <br>
 
-## 🧠 About Me
+## About Me
 
-I'm a systems programmer working close to the hardware — building in **C** and **Rust**, with a focus on memory management, performance, and low-level system design. I also work across the web stack when building tools and interfaces.
+I'm a self-taught systems programmer working close to the hardware — building in **C** and **Rust**, with a focus on memory management, performance, and low-level system design. I also work across the web stack when building tools and interfaces.
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Systems & Low-Level:**
 <div>
@@ -46,7 +46,7 @@ I'm a systems programmer working close to the hardware — building in **C** and
 
 <br>
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
   <img src="https://personal-github-stats-sage.vercel.app/api?username=TurboRx&show_icons=true&theme=tokyonight&cache_seconds=300" alt="GitHub Stats" />
