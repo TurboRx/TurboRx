@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/banner.png" alt="TurboRx Banner" width="100%" />
+</div>
+
+<div align="center">
 
 # Hi, I'm TurboRx 👋
 
