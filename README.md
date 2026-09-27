@@ -27,7 +27,7 @@ No formal courses, no shortcuts — everything I know, I taught myself by buildi
 
 - 🧠 **AI/ML** — learning the fundamentals and building small models/tools
 - 🛡️ **Cybersecurity** — offensive security: reverse engineering
-- 🐛 **Bug Hunting** — digging through code and systems to find what others missed
+- 🐛 **Bug Hunting** — digging through code to find what others missed
 
 <br>
 
