@@ -2,7 +2,7 @@
 
 # Hi, I'm TurboRx 👋
 
-### AI/ML & Cybersecurity — building, breaking, and hunting bugs on the way to the top.
+### AI/ML & Cybersecurity: building, breaking, and hunting bugs on the way to the top.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0070F3&center=true&vCenter=true&width=600&lines=AI%2FML+%2B+Cybersecurity;Offensive+Security+%2B+Bug+Hunting;Reverse+Engineering;Chasing+GOAT+status%2C+one+exploit+at+a+time" alt="Typing SVG" />
 
@@ -17,17 +17,17 @@
 
 ## About Me
 
-I'm building toward being one of the best in **AI/ML** and **Cybersecurity** — full stop. On the security side, I go deep into offensive security: **reverse engineering** binaries to understand exactly how software behaves, and **bug hunting** to find what everyone else missed.
+I'm building toward being one of the best in **AI/ML** and **Cybersecurity**, full stop. On the security side, I go deep into offensive security: **reverse engineering** binaries to understand exactly how software behaves, and **bug hunting** to find what everyone else missed.
 
-No formal courses, no shortcuts — everything I know, I taught myself by building, breaking, and digging until it clicked. That's the foundation I'm stacking real skill on top of.
+No formal courses, no shortcuts. Everything I know, I taught myself by building, breaking, and digging until it clicked. That's the foundation I'm stacking real skill on top of.
 
 <br>
 
 ## Current Focus
 
-- 🧠 **AI/ML** — learning the fundamentals and building small models/tools
-- 🛡️ **Cybersecurity** — offensive security: reverse engineering
-- 🐛 **Bug Hunting** — digging through code to find what others missed
+- 🧠 **AI/ML**: learning the fundamentals and building small models/tools
+- 🛡️ **Cybersecurity**: offensive security, reverse engineering
+- 🐛 **Bug Hunting**: digging through code to find what others missed
 
 <br>
 
@@ -79,6 +79,6 @@ No formal courses, no shortcuts — everything I know, I taught myself by buildi
 
 <div align="center">
 
-*Thanks for stopping by — feel free to explore my repos.*
+*Thanks for stopping by. Feel free to explore my repos.*
 
 </div>
