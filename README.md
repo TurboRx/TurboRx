@@ -2,13 +2,14 @@
 
 # Hi, I'm TurboRx 👋
 
-### Self-taught Systems Programmer — building close to the metal in C & Rust.
+### AI/ML & Cybersecurity — building, breaking, and hunting bugs on the way to the top.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0070F3&center=true&vCenter=true&width=500&lines=Self-taught+Systems+Programmer;Focused+on+performance+%26+low-level+design;Exploring+embedded+systems+%26+security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0070F3&center=true&vCenter=true&width=600&lines=AI%2FML+%2B+Cybersecurity;Offensive+Security+%2B+Bug+Hunting;Reverse+Engineering;Chasing+GOAT+status%2C+one+exploit+at+a+time" alt="Typing SVG" />
 
 <a href="https://turborx.pages.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=TurboRx&style=for-the-badge&color=0070F3&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -16,23 +17,41 @@
 
 ## About Me
 
-I'm a self-taught systems programmer working close to the hardware — building in **C** and **Rust**, with a focus on memory management, performance, and low-level system design. I also work across the web stack when building tools and interfaces.
+I'm building toward being one of the best in **AI/ML** and **Cybersecurity** — full stop. On the security side, I go deep into offensive security: **reverse engineering** binaries to understand exactly how software behaves, and **bug hunting** to find what everyone else missed.
+
+No formal courses, no shortcuts — everything I know, I taught myself by building, breaking, and digging until it clicked. That's the foundation I'm stacking real skill on top of.
+
+<br>
+
+## Current Focus
+
+- 🧠 **AI/ML** — learning the fundamentals and building small models/tools
+- 🛡️ **Cybersecurity** — offensive security: reverse engineering
+- 🐛 **Bug Hunting** — digging through code and systems to find what others missed
 
 <br>
 
 ## Tech Stack
 
-**Systems & Low-Level:**
+**AI/ML & Data:**
 <div>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</div>
+
+**Security & Reverse Engineering:**
+<div>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ghidra-6A0DAD?style=for-the-badge&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
 </div>
 
 **Web & Scripting:**
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
@@ -41,7 +60,6 @@ I'm a self-taught systems programmer working close to the hardware — building 
 <div>
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 <br>
