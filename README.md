@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="TurboRx Banner" width="100%" />
+  <img src="assets/banner.png" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
