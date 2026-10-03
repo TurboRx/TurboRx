@@ -78,14 +78,14 @@ I have no formal courses behind me. Everything I know comes from building, break
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/TurboRx" target="_blank" rel="noopener noreferrer">
+  <a href="https://github-readme-stats.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=dark" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=dark" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=default" />
       <img src="https://github-readme-stats.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
     </picture>
   </a>
-  <a href="https://github.com/TurboRx" target="_blank" rel="noopener noreferrer">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=dark" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=dark" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=default" />
