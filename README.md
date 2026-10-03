@@ -78,24 +78,20 @@ I have no formal courses behind me. Everything I know comes from building, break
 ## 📈 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented" />
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=default&hide_border=true" />
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TurboRx&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=TurboRx&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=TurboRx&theme=default&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <a href="https://github.com/TurboRx" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TurboRx&show_icons=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/TurboRx" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TurboRx&layout=compact&theme=default" alt="Top Languages" />
+    </picture>
+  </a>
 </div>
 
 <br>
