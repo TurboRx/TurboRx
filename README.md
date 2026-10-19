@@ -15,9 +15,6 @@
 <a href="https://turborx.pages.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-turborx.pages.dev-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://github.com/TurboRx?tab=followers">
-  <img src="https://img.shields.io/github/followers/TurboRx?style=for-the-badge&logo=github&color=2EA44F&label=Followers" alt="Followers" />
-</a>
 <img src="https://komarev.com/ghpvc/?username=TurboRx&style=for-the-badge&color=8957E5&label=Profile+Views" alt="Profile Views" />
 
 </div>
