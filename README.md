@@ -48,7 +48,7 @@ I have no formal courses behind me. Everything I know comes from building, break
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff" alt="Bash" />
   <img src="https://custom-icon-badges.demolab.com/badge/Ghidra-DF2A2A?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Nmap-4682B4?style=for-the-badge&logo=nmap" alt="Nmap" />
 </p>
 
 **Languages & Web**
