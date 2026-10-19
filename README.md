@@ -46,15 +46,15 @@ I have no formal courses behind me. Everything I know comes from building, break
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff" alt="Bash" />
-  <img src="https://img.shields.io/badge/Ghidra-6A0DAD?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDEuNSAzIDZ2NmMwIDUuMiAzLjYgOS4zIDkgMTAuNSA1LjQtMS4yIDktNS4zIDktMTAuNVY2em0wIDIuMiA3IDMuNXY0LjhjMCA0LTIuNiA3LjItNyA4LjQtNC40LTEuMi03LTQuNC03LTguNFY3LjIwMHptLjIgMy4zMDBjLTIuOTAwIDAtNSAyLjEwMC01IDVzMi4xMDAgNSA1IDVjMS42MDAgMCAyLjkwMC0uNiAzLjgwMC0xLjYwMFYxMmgtNHYxLjgwMGgyYy0uMy43MDAtMSAxLjIwMC0xLjgwMCAxLjIwMC0xLjcwMCAwLTMtMS4zMDAtMy0zczEuMzAwLTMgMy0zYy45IDAgMS42MDAuNCAyLjEwMCAxbDEuNDAwLTEuMzAwYy0uOS0xLTIuMTAwLTEuNzAwLTMuNTAwLTEuNzAweiIvPjwvc3ZnPgo%3D" alt="Ghidra" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Ghidra-DF2A2A?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDRDNi41MDAgNCAyLjIwMCA4IC41IDEyYzEuNzAwIDQgNiA4IDExLjUwMCA4czkuODAwLTQgMTEuNTAwLThDMjEuODAwIDggMTcuNTAwIDQgMTIgNHptMCAyYzQuMjAwIDAgNy43MDAgMi44MDAgOS4zMDAgNi0xLjYwMCAzLjIwMC01LjEwMCA2LTkuMzAwIDZzLTcuNzAwLTIuODAwLTkuMzAwLTZDNC4zMDAgOC44MDAgNy44MDAgNiAxMiA2em0wIDEuNTAwYTQuNTAwIDQuNTAwIDAgMSAwIDAgOSA0LjUwMCA0LjUwMCAwIDAgMCAwLTl6bTAgMi41MDBhMiAyIDAgMSAxIDAgNCAyIDIgMCAwIDEgMC00eiIvPjwvc3ZnPgo%3D" alt="Nmap" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
 </p>
 
 **Languages & Web**
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
